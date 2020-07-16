@@ -27,4 +27,4 @@ if browser.select(id: 'specialties').length == 0
 puts 'Test Passed'
 else
 puts 'Test Failed'
-end
+end..
